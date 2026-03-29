@@ -1,8 +1,8 @@
 # Android Instagram SSL Pinning Bypass
 
-**📆 Update:** As of **December 12, 2025**, JavaScript files for bypassing SSL pinning in the Instagram Android APK v409 have been successfully tested and are shared here free of charge. 🧪
+**📆 Update:** As of **March 29, 2026**, the JavaScript files for bypassing SSL pinning in Instagram Android APK v409 have been successfully tested and are available here free of charge. 🧪
 
-![Instagram Android SSL Pinning Bypass](https://i.imgur.com/rwqsXb2.jpeg) 
+![Instagram Android SSL Pinning Bypass](https://i.imgur.com/ujkdtCw.jpeg) 
 ---
 
 ## Requirements ✅
@@ -20,6 +20,7 @@
 - Download correct APK version for v398 [[v398](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-398-1-0-53-77-release/instagram-398-1-0-53-77-7-android-apk-download/)]
 - Download correct APK version for v399 [[v399](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-399-0-0-51-85-release/instagram-399-0-0-51-85-5-android-apk-download/)]
 - Download correct APK version for v409 [[v409](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-409-0-0-48-170-release/instagram-409-0-0-48-170-2-android-apk-download/)]
+- Download correct APK version for v422 [[v422](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-422-0-0-44-64-release/instagram-422-0-0-44-64-7-android-apk-download/)]
 ---
 
 ## Quick Start 🚀
@@ -48,6 +49,7 @@ set "SCRIPT=C:\Users\PCName\Desktop\TheScriptThatYouDownloaded.js"
 - v398 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v398/
 - v399 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v399/
 - v409 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v409/
+- v422 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v409/
   
 ---
 
