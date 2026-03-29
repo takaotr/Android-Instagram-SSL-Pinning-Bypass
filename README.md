@@ -49,7 +49,7 @@ set "SCRIPT=C:\Users\PCName\Desktop\TheScriptThatYouDownloaded.js"
 - v398 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v398/
 - v399 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v399/
 - v409 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v409/
-- v422 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v409/
+- v422 → https://codeshare.frida.re/@takaotr/instagram-ssl-pinning-bypass-v422/
   
 ---
 
