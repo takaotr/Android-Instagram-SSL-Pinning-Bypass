@@ -9,7 +9,7 @@
 - **Rooted Android Emulator** (e.g., Nox Player with root mode enabled) 📱  
 - **Frida** installed on your computer 🖥️  
 - Matching **frida-server** binary running inside the emulator (same version as host Frida)  
-- Instagram **APK** (v395 - v409) installed in the emulator  
+- Instagram **APK** (v395 - v422) installed in the emulator  
 
 ---
 
