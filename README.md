@@ -1,6 +1,6 @@
 # Android Instagram SSL Pinning Bypass
 
-**📆 Update:** As of **March 29, 2026**, the JavaScript files for bypassing SSL pinning in Instagram Android APK v409 have been successfully tested and are available here free of charge. 🧪
+**📆 Update:** As of **March 29, 2026**, the JavaScript files for bypassing SSL pinning in Instagram Android APK v422 have been successfully tested and are available here free of charge. 🧪
 
 ![Instagram Android SSL Pinning Bypass](https://i.imgur.com/ujkdtCw.jpeg) 
 ---
