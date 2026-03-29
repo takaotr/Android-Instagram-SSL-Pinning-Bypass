@@ -56,7 +56,7 @@ set "SCRIPT=C:\Users\PCName\Desktop\TheScriptThatYouDownloaded.js"
 
 ## Support ☕💸
 If this project helped you and you’d like to support:  
-- **USDT (TRC20):** `TEk4Bc85gTtExoUPPNXvhJkGyqhUSsSPVr`
+- **USDT (TRC20):** `TYH754vsN8DHmrYYfSTiAt3UEWTPX7rjCD`
 
 ---
 
